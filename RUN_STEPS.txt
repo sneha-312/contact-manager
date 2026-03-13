@@ -1,0 +1,17 @@
+
+RUN CONNECTHUB PROJECT
+
+1. Extract this ZIP
+2. Open folder in VS Code
+3. Open terminal
+4. Run:
+npm install
+
+5. Start server
+npm start
+
+6. Open browser
+http://localhost:5000
+
+Output:
+ConnectHub API Running
